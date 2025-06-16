@@ -1,0 +1,16 @@
+{
+  "name": "awilix-demo",
+  "version": "1.0.0",
+  "description": "Dependency injection demo with awilix",
+  "type": "module",
+  "author": "Robert J. Walker",
+  "license": "MIT",
+  "main": "app.js",
+  "dependencies": {
+    "awilix": "^12.0.5",
+    "express": "^5.1.0"
+  },
+  "scripts": {
+    "start": "node --env-file=.env app.js"
+  }
+}
