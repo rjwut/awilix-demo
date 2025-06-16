@@ -1,6 +1,6 @@
 /*
  * Stands up the Awilix container. This is the single location where all the dependencies and values
- * to be injected are registered. The rest of your applicatino does not have to know anything about
+ * to be injected are registered. The rest of your application does not have to know anything about
  * how to get these dependencies and values; they just get them from the Awilix container.
  *
  * We illustrate two common Awilix registration types here:
